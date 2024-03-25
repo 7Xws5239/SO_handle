@@ -1,0 +1,7 @@
+Close:
+
+https://stackoverflow.com/questions/78088817/unable-to-start-program-https-localhost44333-there-are-no-more-filess
+
+https://stackoverflow.com/questions/78124173/net-maui-the-android-application-is-running-debugging-is-disabled-in-android-pr
+
+https://stackoverflow.com/questions/78116093/could-not-load-file-or-assembly-microsoft-data-sqlclient-despite-already-install
